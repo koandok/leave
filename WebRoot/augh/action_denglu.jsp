@@ -3,6 +3,7 @@
 <%@ include file="/base/base.jsp" %>
 
 <%
+//texxttttt
    //取出请求参数值之前设置请求的编码方式
        request.setCharacterEncoding("utf-8");
        
